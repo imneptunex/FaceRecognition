@@ -42,8 +42,8 @@ PythonProject/
 ## 📊 Output Format
 
 The system generates a CSV file with the following format:
-Name,Time
-John_Doe,14:30:25
+Name,Time ||
+John_Doe,14:30:25 ||
 Jane_Smith,14:31:10
 
 
