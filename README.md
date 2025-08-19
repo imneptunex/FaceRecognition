@@ -19,9 +19,17 @@ A real-time face recognition application that automatically marks attendance usi
 
 ## 📁 Project Structure
 PythonProject/
+
+
 ├── AttendenceImages/ # Folder containing reference images for recognition
+
+
 ├── Attendence.csv # Generated attendance records
+
+
 ├── main.py # Main application code
+
+
 └── README.md # Project documentation
 
 
@@ -42,8 +50,14 @@ PythonProject/
 ## 📊 Output Format
 
 The system generates a CSV file with the following format:
-Name,Time ||
-John_Doe,14:30:25 ||
+
+
+Name,Time 
+
+
+John_Doe,14:30:25 
+
+
 Jane_Smith,14:31:10
 
 
@@ -54,6 +68,8 @@ bash
 pip install opencv-python numpy face-recognition
 
 **Usage**
+
+
 1.Add reference images to AttendenceImages/ folder (named as PersonName.jpg)
 
 
