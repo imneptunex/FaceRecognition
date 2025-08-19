@@ -55,8 +55,14 @@ pip install opencv-python numpy face-recognition
 
 **Usage**
 1.Add reference images to AttendenceImages/ folder (named as PersonName.jpg)
+
+
 2.Run the application
+
+
 3.Look at the webcam to be recognized
+
+
 4.Attendance will be automatically recorded in Attendence.csv
 
 
